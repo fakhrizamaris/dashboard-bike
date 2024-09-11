@@ -8,7 +8,7 @@ from babel.numbers import format_currency
 sns.set(style='dark')
 
 # Load dataset day_df dan hour_df
-day_df = pd.read_csv("day.csv")
+# day_df = pd.read_csv("day.csv")
 hour_df = pd.read_csv("hour.csv")
 
 # Mengonversi kolom tanggal
